@@ -1,0 +1,19 @@
+body{
+    background: radial-gradient(#fff, #fdff77)
+}
+body h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-shadow: 1px 1px 4px #555;
+    font-size: 48px;
+    font-style: none;
+}
+body img{
+    padding: 10px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 30%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 100px;
+}
